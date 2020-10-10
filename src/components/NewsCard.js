@@ -28,6 +28,7 @@ export { NewsCard };
 
 const styles = StyleSheet.create({
     container: {
+        flex:1,
         borderWidth: 1,
         borderColor: '#e0e0e0',
         padding: 5,
